@@ -1,0 +1,18 @@
+.jumbotron-fluid {
+    background-image: url("Fotos/aroma-background-black-1415555.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  .navbar {
+      background-color:rgba(0, 0, 0, 0);
+  }
+  
+  .locopoco {
+      width: 200px;
+      
+  }
+
+  .card-columns {
+    column-count: 3;
+}
