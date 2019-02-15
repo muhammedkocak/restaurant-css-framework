@@ -26,9 +26,16 @@
 
 img {
     -webkit-transition: all 1s ease;
-    height: 100%;
+    
+    
 }
-
+.offerrss {
+    width: 100%;
+    transform: scale(1);
+}
+.offerrss:hover {
+    transform: scale(1);
+}
 img:hover {
     transform: scale(2.2);
 }
@@ -38,13 +45,11 @@ img:hover {
 }
 
 .bg-cust {
-    background-color: rgba(255, 255, 255, 0.79 );
+    background-color: rgba(1,2,3,0.4);
     box-shadow: box-shadow 5px 40px 0px 35px rgba(0,0,0,0.100);
     
 }
-.offerrss:hover {
-    transform: scale(1);
-}
+
 .map-container-5{
     overflow:hidden;
     padding-bottom:56.25%;
@@ -58,3 +63,5 @@ img:hover {
     width:100%;
     position:absolute;
     }
+   
+   
